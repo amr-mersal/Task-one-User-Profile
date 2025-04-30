@@ -17,3 +17,18 @@ A simple React application that allows users to:
 - React 
 - useState (React hook for state management)
 - CSS
+  
+##  Getting Started
+
+###  Clone the repository
+
+```bash
+git clone https://github.com/your-username/edit-profile-app.git
+cd edit-profile-app
+npm install
+npm run dev
+```
+## DEMO
+
+
+
