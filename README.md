@@ -18,7 +18,7 @@ A simple React application that allows users to:
 - useState (React hook for state management)
 - CSS
   
-##  Getting Started
+
 
 ###  Clone the repository
 
