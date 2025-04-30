@@ -32,7 +32,10 @@ npm run dev
 
 
 
-https://github.com/user-attachments/assets/501bf842-5987-4548-a48d-22eae3202fc1
+
+
+
+https://github.com/user-attachments/assets/822f86c6-fa2c-487f-abd4-8d3508616b06
 
 
 
