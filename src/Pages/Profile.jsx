@@ -33,6 +33,7 @@ const Profile = () => {
         <Header />
 
         {isEditing ? (
+          
           <Edit_Profile user={user} onSave={updateUser} />
         ) : (
           <div className="info">

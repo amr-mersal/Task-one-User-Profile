@@ -7,6 +7,7 @@ export const Skills = ({ skills }) => {
     <div className="skills">
       <h3>Skills</h3>
       <ul>
+        {/* Use the map method to get each skill in the array. */}
         {skills.map((skill, i) => (
           <li key={i}>{skill}</li>
         ))}
