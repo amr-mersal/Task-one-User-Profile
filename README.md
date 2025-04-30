@@ -23,7 +23,7 @@ A simple React application that allows users to:
 ###  Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Task-one-User-Profile.git
+git clone https://github.com/amr-mersal/Task-one-User-Profile.git
 cd Task-one-User-Profile
 npm install
 npm run dev
