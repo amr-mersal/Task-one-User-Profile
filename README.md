@@ -1,12 +1,38 @@
-# React + Vite
+##  Edit Profile App (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React application that allows users to:
 
-Currently, two official plugins are available:
+- View their profile information (name, email, bio)
+- Edit profile details through a form
+- Show or hide their list of skillst.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Features
 
-## Expanding the ESLint configuration
+-  Edit profile details interactively
+-  Save updates without affecting skills
+-  Toggle skill visibility
+-  Clean UI with basic CSS
+  
+ ##  Technologies Used
+- React 
+- useState (React hook for state management)
+- CSS
+  
+##  Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+###  Clone the repository
+
+```bash
+git clone https://github.com/your-username/Task-one-User-Profile.git
+cd Task-one-User-Profile
+npm install
+npm run dev
+```
+## DEMO
+
+
+
+https://github.com/user-attachments/assets/501bf842-5987-4548-a48d-22eae3202fc1
+
+
+
